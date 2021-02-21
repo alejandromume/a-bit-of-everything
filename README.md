@@ -9,6 +9,7 @@
 * Windows Terminal
 * VirtualBox
 * Adobe *
+* nmap
 * PuTTY
 * Python
 * VS Community
