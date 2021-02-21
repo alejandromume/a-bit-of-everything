@@ -13,6 +13,8 @@
 * Python
 * VS Community
 * XMind
+* NVM (WSL)
+* NodeJS
 * Spotify
 * ShareX
 * Windows WSL
